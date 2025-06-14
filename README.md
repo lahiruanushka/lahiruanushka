@@ -1,12 +1,11 @@
 👋 **Hello and Welcome to my GitHub Profile!**
 
-I'm **Lahiru Anushka**, an IT graduate from **SLIATE** with a passion for software development and crafting innovative digital solutions. My expertise lies in **backend and frontend development**, where I bring ideas to life using a wide range of programming languages and frameworks. I enjoy building applications that are not only functional but also scalable and user-centric.
+I'm **Lahiru Anushka**, an **IT graduate from SLIATE** with a strong passion for **software development** and building impactful digital solutions. I specialize in both **frontend and backend development**, working with a variety of **programming languages** and **frameworks** to create **scalable**, **efficient**, and **user-focused** applications.
 
-I am driven by **problem-solving** and thrive on challenges that allow me to create efficient, well-architected solutions. I have experience working with various **software development tools and methodologies**, ensuring that my projects meet high-quality standards and are delivered on time.
+My journey is driven by **curiosity** and **problem-solving**, and I enjoy turning ideas into functional software through **clean architecture** and **thoughtful design**. I actively explore **new technologies** and continuously improve my skills by working on **personal projects**, contributing to **open-source**, and sharing my **learning process through code**.
 
-Feel free to explore my repositories where I contribute to **open-source projects**, build educational applications, and showcase my learning journey in the world of software development.
+Feel free to explore my **repositories** and get in touch if you'd like to **collaborate** on something exciting! 😊
 
-Let’s collaborate and create something impactful together! 😊
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lahiru-anushka)  
