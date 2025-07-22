@@ -1,69 +1,176 @@
 <div align="center">
 
-<!-- Sleek Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=250&section=header&text=Lahiru%20Anushka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=55&descSize=16"/>
+<!-- Dynamic Header with Gradient Wave -->
+<picture>
+  <source media="(min-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=300&section=header&text=Lahiru%20Anushka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=20">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=220&section=header&text=Lahiru%20Anushka&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Developer&descAlignY=58&descSize=16" alt="Header"/>
+</picture>
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&height=80&lines=🚀+Welcome+to+my+coding+universe!;💻+Building+digital+solutions+that+matter;🌟+Passionate+about+clean+code+%26+innovation;☕+Turning+ideas+into+reality" alt="Dynamic Typing" />
+<!-- Responsive Typing Animation -->
+<picture>
+  <source media="(min-width: 1024px)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=900&height=100&lines=🚀+Welcome+to+my+digital+universe!;💻+Crafting+scalable+web+solutions;🌟+Passionate+about+clean+architecture;⚡+Turning+coffee+into+code;🎯+Building+the+future%2C+one+commit+at+a+time">
+  <source media="(min-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&height=80&lines=🚀+Welcome+to+my+universe!;💻+Crafting+web+solutions;🌟+Clean+architecture;⚡+Coffee+to+code;🎯+Building+the+future">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=500&height=70&lines=🚀+Welcome!;💻+Web+Developer;🌟+Clean+Code;⚡+Coffee+Coder" alt="Typing Animation" />
+</picture>
 
-<!-- Improved Stats Layout -->
-<br/>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=lahiruanushka&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="420"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=lahiruanushka&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=FFA500&currStreakLabel=F85D7F" alt="GitHub Streak" width="420"/> |
-|:---:|:---:|
+<!-- Enhanced Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Building-00d4aa?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-ff6b6b?style=for-the-badge&logo=map-pin&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍💻 Professional Profile
-
-**🎓 Education:** IT Graduate from SLIATE (Distinction)  
-**💼 Role:** Associate Software Engineer  
-**📍 Location:** Sri Lanka 🇱🇰  
-**🚀 Specialization:** Full-Stack Development
-
-### 🔥 Current Activities
-
-- **🔭 Working on:** Scalable web applications & microservices
-- **🌱 Learning:** Advanced TypeScript, Next.js 14, System Design
-- **👯 Collaborating on:** Open-source projects & innovative solutions
-- **💬 Expertise:** React, Laravel, .NET, Modern Web Technologies
-- **⚡ Philosophy:** Code with purpose, design with empathy
-
-### 🎨 Interests & Passions
-
-`Clean Architecture` • `UI/UX Design` • `Problem Solving` • `Open Source` • `Tech Innovation` • `Mentoring`
-
-</td>
-<td width="40%">
+## 👋 About Me
 
 <div align="center">
-  
-<!-- Clean Animated Image -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding Animation"/>
 
-### 🌟 Fun Facts
+**Welcome to my GitHub profile!** I am a **graduate in Information Technology from SLIATE**, currently working as an **Associate Software Engineer**. Through hands-on experience in software development, I've strengthened my passion for building dynamic and scalable digital solutions that seamlessly blend creativity with functionality.
+
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<!-- Responsive Stats Layout -->
+<table width="100%">
+<tr>
+<td align="center" colspan="2">
+
+### 🔥 Performance Metrics
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**GitHub Statistics**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lahiruanushka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=8b5cf6&text_color=a855f7&count_private=true&include_all_commits=true&card_width=400">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lahiruanushka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=8b5cf6&text_color=a855f7&count_private=true&include_all_commits=true&card_width=400" width="100%" style="max-width: 400px;"/>
+</picture>
+
+</td>
+<td width="50%" align="center">
+
+**Contribution Streak**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=lahiruanushka&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=8b5cf6&fire=a855f7&currStreakLabel=7c3aed&sideLabels=a855f7">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lahiruanushka&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=8b5cf6&fire=a855f7&currStreakLabel=7c3aed&sideLabels=a855f7" width="100%" style="max-width: 400px;"/>
+</picture>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Most Used Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruanushka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=a855f7&langs_count=8&exclude_repo=lahiruanushka&card_width=600">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruanushka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=a855f7&langs_count=8&exclude_repo=lahiruanushka&card_width=600" width="100%" style="max-width: 600px;"/>
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Professional Details
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="100%" colspan="2" align="center">
+
+### 🚀 Technical Focus & Expertise
+
+</td>
+</tr>
+<tr>
+<td width="60%" valign="top">
+
+#### 🚀 Current Focus & Expertise
 
 ```typescript
-const lahiru = {
-  favoriteLanguages: ['TypeScript', 'C#', 'PHP'],
-  currentMood: 'Coding 💻',
-  coffeeDrunk: '∞',
-  codeStyle: 'Clean & Scalable',
-  motto: 'Build it right, build it once'
+interface Developer {
+  readonly name: string;
+  readonly role: string;
+  readonly education: string;
+  readonly location: string;
+  currentFocus: string[];
+  skills: TechStack;
+}
+
+type TechStack = {
+  frontend: string[];
+  backend: string[];
+  database: string[];
+  tools: string[];
+}
+
+const lahiru: Developer = {
+  name: "Lahiru Anushka",
+  role: "Associate Software Engineer",
+  education: "IT Graduate (SLIATE - Distinction)",
+  location: "Sri Lanka 🇱🇰",
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring microservices architecture", 
+    "Contributing to open source projects",
+    "System design & architecture patterns"
+  ],
+  skills: {
+    frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+    backend: ["Laravel", ".NET Core", "Node.js", "PHP"],
+    database: ["MySQL", "MongoDB", "PostgreSQL"],
+    tools: ["Docker", "Git", "Linux", "Figma"]
+  }
+};
+```
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="max-width: 280px;" alt="Coding Animation"/>
+
+#### 🎯 Core Values
+
+**💡 Innovation:** Creative problem solving  
+**🔧 Quality:** Clean, maintainable code  
+**🤝 Collaboration:** Team-first mentality  
+**📚 Growth:** Continuous learning  
+**🎨 Design:** Function meets aesthetics  
+
+#### ⚡ Quick Facts
+
+```javascript
+const quickStats = {
+  experience: "1+ years professional",
+  projectsCompleted: "10+ full-stack apps",
+  technologies: "15+ mastered",
+  dailyCoffee: "∞ cups ☕",
+  motto: "Code with passion! 🚀"
 };
 ```
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -71,203 +178,160 @@ const lahiru = {
 
 <div align="center">
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,redux&theme=dark&perline=9" alt="Frontend Skills" style="max-width: 100%;"/>
+</p>
 
-### 🎨 Styling & UI Frameworks
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Styling & Design
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,materialui&theme=dark&perline=5" alt="Design Skills" style="max-width: 100%;"/>
+</p>
 
-### ⚙️ Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Backend & Server
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet,express,fastapi&theme=dark&perline=7" alt="Backend Skills" style="max-width: 100%;"/>
+</p>
 
-### 🗄️ Database Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Database & Storage
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis&theme=dark&perline=5" alt="Database Skills" style="max-width: 100%;"/>
+</p>
 
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&theme=dark&perline=8" alt="DevOps Tools" style="max-width: 100%;"/>
+</p>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Advanced Analytics & Achievements
 
 <div align="center">
 
-<!-- Language Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruanushka&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10"/>
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lahiruanushka&custom_title=📊%20Annual%20Contribution%20Timeline&bg_color=0d1117&color=a855f7&line=7c3aed&point=8b5cf6&area=true&hide_border=true&theme=react-dark">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lahiruanushka&custom_title=📊%20Annual%20Contribution%20Timeline&bg_color=0d1117&color=a855f7&line=7c3aed&point=8b5cf6&area=true&hide_border=true&theme=react-dark" width="100%" style="max-width: 1000px;"/>
+</picture>
 
-<!-- Activity Graph with Better Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lahiruanushka&custom_title=Contribution%20Timeline&bg_color=0D1117&color=F85D7F&line=7C3AED&point=FFA500&area=true&hide_border=true&theme=react-dark"/>
+<br/>
 
-<!-- Trophy Collection -->
-<img src="https://github-profile-trophy.vercel.app/?username=lahiruanushka&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=1&column=6"/>
+<!-- GitHub Trophies -->
+<picture>
+  <source media="(min-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=lahiruanushka&theme=discord&no-frame=false&no-bg=false&margin-w=4&margin-h=8&row=2&column=4">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=lahiruanushka&theme=discord&no-frame=false&no-bg=false&margin-w=4&margin-h=8&row=3&column=3" style="max-width: 100%;"/>
+</picture>
 
-<!-- Working Snake Animation -->
+<!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"/>
 </picture>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-<!-- Enhanced Project Cards -->
-<table>
+### 💬 Ready to Build Something Amazing?
+
+> *"The best way to predict the future is to create it."* - Peter Drucker
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🌐 PostVibe - Social Media Platform
-[![PostVibe](https://github-readme-stats.vercel.app/api/pin/?username=lahiruanushka&repo=laravel-social-media-platform&theme=synthwave&hide_border=true&bg_color=0D1117)](https://github.com/lahiruanushka/laravel-social-media-platform)
+#### 🌐 Professional Networks
 
-**Tech Stack:** Laravel • PHP • MySQL • Bootstrap  
-**Features:** Real-time posts, user interactions, media sharing
-
-</td>
-<td width="50%">
-
-### 📚 MERN Book Store
-[![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=lahiruanushka&repo=mern-book-store-app&theme=synthwave&hide_border=true&bg_color=0D1117)](https://github.com/lahiruanushka/mern-book-store-app)
-
-**Tech Stack:** React • Node.js • MongoDB • Express  
-**Features:** Book management, search, user authentication
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 Current Mission
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-
-### 🔥 Learning Path
-```javascript
-const currentLearning = {
-  advanced: ["TypeScript Patterns", "System Design"],
-  frameworks: ["Next.js 14", "Microservices"],
-  emerging: ["AI/ML Integration", "Web3"]
-};
-```
-
-</td>
-<td width="33%">
-
-### 🚀 Active Projects
-```python
-projects = [
-    "Scalable Web Applications",
-    "Open Source Contributions", 
-    "Personal Portfolio",
-    "Tech Blog Articles"
-]
-```
-
-</td>
-<td width="33%">
-
-### 🌟 Future Goals
-```php
-$goals = [
-    'contribute_to_major_oss',
-    'build_impactful_applications',
-    'mentor_developers', 
-    'tech_conference_speaker'
-];
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<!-- Social Links with Modern Design -->
-<a href="https://linkedin.com/in/lahiru-anushka" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=20"/>
+<p>
+<a href="https://linkedin.com/in/lahiruanushka" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:lahiruanushkaofficial@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square"/>
-</a>
+</p>
+<p>
 <a href="https://stackoverflow.com/users/22661832" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-Contribute-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
 </a>
+</p>
+<p>
+<a href="https://dev.to/lahiruanushka" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+#### 📱 Direct Contact
+
+<p>
+<a href="mailto:lahiruanushkaofficial@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
+<p>
 <a href="https://lahiruanushka.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
+</p>
+<p>
+<a href="https://twitter.com/lahiruanushz" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+</p>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-### 💭 *"Great software is not built by perfect code, but by passionate developers who care about the details."*
+### 🎯 Open to Opportunities
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lahiruanushka&style=for-the-badge&color=4F46E5&label=Profile%20Views"/>
+```javascript
+const openTo = [
+  "🚀 Exciting full-stack projects",
+  "🤝 Open source collaborations", 
+  "💼 Freelance development opportunities",
+  "🎤 Tech talks & speaking engagements",
+  "👥 Mentoring aspiring developers",
+  "☕ Coffee chats about innovation"
+];
+
+// Let's connect and create something extraordinary!
+console.log("Ready to collaborate? 🚀");
+```
+
+### 📊 Profile Metrics
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=lahiruanushka&style=for-the-badge&color=7c3aed&label=Profile%20Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/lahiruanushka?style=for-the-badge&color=7c3aed&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/lahiruanushka?style=for-the-badge&color=7c3aed&label=Total%20Stars" alt="Stars"/>
+</p>
 
 </div>
 
 ---
 
-## ☕ Support My Journey
-
 <div align="center">
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
+### ⭐ *"Code is poetry written in logic. Every line tells a story."* ⭐
 
-### 🙏 *Your support helps me create better open-source projects and content!*
-
-</div>
+**💫 Thank you for visiting! Let's build the future together, one commit at a time.** 🚀
 
 ---
 
-<div align="center">
+<p>
+<sub><strong>Crafted with ❤️ by Lahiru Anushka</strong></sub>
+</p>
 
-<!-- Clean Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=150&section=footer"/>
-
-### ⭐ *If you find my work interesting, don't forget to star some repositories!* ⭐
-
-**Keep coding, keep growing!** 🚀✨
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=120&section=footer"/>
 
 </div>
