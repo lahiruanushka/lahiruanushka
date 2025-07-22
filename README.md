@@ -1,17 +1,10 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Wave -->
-<picture>
-  <source media="(min-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=300&section=header&text=Lahiru%20Anushka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=20">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=220&section=header&text=Lahiru%20Anushka&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Developer&descAlignY=58&descSize=16" alt="Header"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:8b5cf6&height=300&section=header&text=Lahiru%20Anushka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=20" alt="Header"/>
 
 <!-- Responsive Typing Animation -->
-<picture>
-  <source media="(min-width: 1024px)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=900&height=100&lines=🚀+Welcome+to+my+digital+universe!;💻+Crafting+scalable+web+solutions;🌟+Passionate+about+clean+architecture;⚡+Turning+coffee+into+code;🎯+Building+the+future%2C+one+commit+at+a+time">
-  <source media="(min-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&height=80&lines=🚀+Welcome+to+my+universe!;💻+Crafting+web+solutions;🌟+Clean+architecture;⚡+Coffee+to+code;🎯+Building+the+future">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=500&height=70&lines=🚀+Welcome!;💻+Web+Developer;🌟+Clean+Code;⚡+Coffee+Coder" alt="Typing Animation" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7c3aed&center=true&vCenter=true&width=900&height=100&lines=🚀+Welcome+to+my+digital+universe!;💻+Crafting+scalable+web+solutions;🌟+Passionate+about+clean+architecture;⚡+Turning+coffee+into+code;🎯+Building+the+future%2C+one+commit+at+a+time" alt="Typing Animation" />
 
 <!-- Enhanced Status Badges -->
 <p align="center">
