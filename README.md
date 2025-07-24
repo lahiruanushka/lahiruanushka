@@ -84,14 +84,10 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%" colspan="2" align="center">
-
 ### 🚀 Technical Focus & Expertise
 
-</td>
-</tr>
+<!-- Responsive Table Layout -->
+<table>
 <tr>
 <td width="60%" valign="top">
 
@@ -112,7 +108,7 @@ type TechStack = {
   backend: string[];
   database: string[];
   tools: string[];
-}
+};
 
 const lahiru: Developer = {
   name: "Lahiru Anushka",
@@ -121,21 +117,21 @@ const lahiru: Developer = {
   location: "Sri Lanka 🇱🇰",
   currentFocus: [
     "Building scalable web applications",
-    "Exploring microservices architecture", 
+    "Exploring microservices architecture",
     "Contributing to open source projects",
-    "System design & architecture patterns"
+    "System design & architecture patterns",
   ],
   skills: {
     frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
     backend: ["Laravel", ".NET Core", "Node.js", "PHP"],
     database: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Docker", "Git", "Linux", "Figma"]
-  }
+    tools: ["Docker", "Git", "Linux", "Figma"],
+  },
 };
 ```
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="40%" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="max-width: 280px;" alt="Coding Animation"/>
 
@@ -145,7 +141,7 @@ const lahiru: Developer = {
 **🔧 Quality:** Clean, maintainable code  
 **🤝 Collaboration:** Team-first mentality  
 **📚 Growth:** Continuous learning  
-**🎨 Design:** Function meets aesthetics  
+**🎨 Design:** Function meets aesthetics
 
 #### ⚡ Quick Facts
 
@@ -155,7 +151,7 @@ const quickStats = {
   projectsCompleted: "10+ full-stack apps",
   technologies: "15+ mastered",
   dailyCoffee: "∞ cups ☕",
-  motto: "Code with passion! 🚀"
+  motto: "Code with passion! 🚀",
 };
 ```
 
@@ -172,26 +168,31 @@ const quickStats = {
 <div align="center">
 
 ### Frontend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,redux&theme=dark&perline=9" alt="Frontend Skills" style="max-width: 100%;"/>
 </p>
 
 ### Styling & Design
+
 <p>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,materialui&theme=dark&perline=5" alt="Design Skills" style="max-width: 100%;"/>
 </p>
 
 ### Backend & Server
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet,express,fastapi&theme=dark&perline=7" alt="Backend Skills" style="max-width: 100%;"/>
 </p>
 
 ### Database & Storage
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis&theme=dark&perline=5" alt="Database Skills" style="max-width: 100%;"/>
 </p>
 
 ### DevOps & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&theme=dark&perline=8" alt="DevOps Tools" style="max-width: 100%;"/>
 </p>
@@ -235,7 +236,7 @@ const quickStats = {
 
 ### 💬 Ready to Build Something Amazing?
 
-> *"The best way to predict the future is to create it."* - Peter Drucker
+> _"The best way to predict the future is to create it."_ - Peter Drucker
 
 <table width="100%">
 <tr>
@@ -289,11 +290,11 @@ const quickStats = {
 ```javascript
 const openTo = [
   "🚀 Exciting full-stack projects",
-  "🤝 Open source collaborations", 
+  "🤝 Open source collaborations",
   "💼 Freelance development opportunities",
   "🎤 Tech talks & speaking engagements",
   "👥 Mentoring aspiring developers",
-  "☕ Coffee chats about innovation"
+  "☕ Coffee chats about innovation",
 ];
 
 // Let's connect and create something extraordinary!
@@ -314,14 +315,14 @@ console.log("Ready to collaborate? 🚀");
 
 <div align="center">
 
-### ⭐ *"Code is poetry written in logic. Every line tells a story."* ⭐
+### ⭐ _"Code is poetry written in logic. Every line tells a story."_ ⭐
 
 **💫 Thank you for visiting! Let's build the future together, one commit at a time.** 🚀
 
 ---
 
 <p>
-<sub><strong>Crafted with ❤️ by Lahiru Anushka</strong></sub>
+<sub><strong>Made with ❤️ by Lahiru Anushka</strong></sub>
 </p>
 
 <!-- Footer Wave -->
