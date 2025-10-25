@@ -113,7 +113,7 @@ type TechStack = {
 const lahiru: Developer = {
   name: "Lahiru Anushka",
   role: "Associate Software Engineer",
-  education: "IT Graduate (SLIATE - Distinction)",
+  education: "IT Graduate (SLIATE)",
   location: "Sri Lanka 🇱🇰",
   currentFocus: [
     "Building scalable web applications",
