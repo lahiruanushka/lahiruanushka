@@ -45,12 +45,10 @@ I work mostly with **Next.js, React and TypeScript** on the frontend and **C#, A
 
 ### 🚀 Featured projects
 
-<!-- Replace with your own public/personal projects -->
-| Project | What it is | Built with |
-|---|---|---|
-| [**project-one**](https://github.com/lahiruanushka/project-one) | One-line description of what it does | Next.js · TypeScript · Tailwind |
-| [**project-two**](https://github.com/lahiruanushka/project-two) | One-line description of what it does | ASP.NET Core · SQL Server |
-| [**project-three**](https://github.com/lahiruanushka/project-three) | One-line description of what it does | React · Node.js · MongoDB |
+| Project                                                                   | What it is                                                                                          | Built with                                                     |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [**BlogVerse**](https://github.com/lahiruanushka/react-appwrite-blog-app) | A full blogging platform with auth, rich-text posts, bookmarks, user profiles, search and dark mode | React · Redux Toolkit · Appwrite · Tailwind · TinyMCE          |
+| [**3D Portfolio**](https://github.com/lahiruanushka/react-portfolio)      | An interactive portfolio site with Three.js 3D scenes, animated timeline and a working contact form | React · Three.js · React Three Fiber · Framer Motion · EmailJS |
 
 <br/>
 
